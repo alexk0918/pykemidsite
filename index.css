@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #303030;
     margin: 0;
     padding: 0;
     text-align: center;
 }
 
 header {
-    background-color: #333;
+    background-color: rgb(4, 136, 96);
     padding: 20px;
     color: #fff;
 }
@@ -20,12 +20,12 @@ section {
 }
 
 h2 {
-    color: #333;
+    color: #eeeeee;
 }
 
 p {
     line-height: 1.6;
-    color: #555;
+    color: #b3b3b3;
 }
 
 figure {
