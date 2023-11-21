@@ -1,6 +1,9 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #303030;
+    background-image: url('pyke.jpg');
+    background-size: contain;
+    background-position: cover;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -13,19 +16,24 @@ header {
 }
 
 section {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 1200px;
     padding: 20px;
     text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 600px;
 }
 
 h2 {
     color: #eeeeee;
+    margin-left: 600px;
 }
 
 p {
     line-height: 1.6;
     color: #b3b3b3;
+    margin-left: 600px;
 }
 
 figure {
